@@ -6,5 +6,8 @@ The main objective of this college project was to pick a large dataset suitable 
 2. The main objective I had didn't have great results when it came to clustering. I thought there would be certain "hidden" variables that would show a pattern between the California regions for the Census Block Groups. Nevertheless, I'm pretty surprised that such a dataset exists. I hope they release an updated version soon.
 
 ### Example Pictures
-![image](https://github.com/user-attachments/assets/eca7ba92-6b58-4409-8977-de62e661b812)
+<p align="center">
+  <img src="http://some_place.com/image.png](https://github.com/user-attachments/assets/eca7ba92-6b58-4409-8977-de62e661b812)" />
+</p>
+
 *Clustering variables (after feature selection) with t-SNE (nonlinear clustering method)*
