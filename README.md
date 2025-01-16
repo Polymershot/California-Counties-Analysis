@@ -9,7 +9,6 @@ The main objective of this college project was to pick a large dataset suitable 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eca7ba92-6b58-4409-8977-de62e661b812" />
 </p>
-
 <p align="center">
 Clustering variables (after feature selection) with t-SNE (nonlinear clustering method)
 </p>
