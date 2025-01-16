@@ -3,7 +3,9 @@ The main objective of this college project was to pick a large dataset suitable 
 
 ## Remarks
 1. The code is quite messy and unoptimized. If I were to improve the code, I would look into better ways to store the data. I heard Parquet is something I should look into. I don't think using SQL to clean the data is quite possible for me because it would be quite complex in my opinion. Creating more subfolders to store intermediate results instead of rerunning the code would be much better also.
-2. The main objective I had didn't have great results when it came to clustering. I thought there would be certain "hidden" variables that would show a pattern between the California regions for the Census Block Groups. Nevertheless, I'm pretty surprised that such a dataset exists. I hope they release an updated version soon.
+2. The main objective I had didn't have great results when it came to clustering. I thought there would be certain "hidden" variables that would show a pattern between the California regions for the Census Block Groups.
+3. My main conclusion from this analysis was that I was searching for a needle in a haystack. The objective question I had was quite flawed but I learned something important. Many times, after all the analysis, there might not be a pattern or finding that is impactful. Instead of hyperfocusing on which clustering method or feature engineering/selection method to use, I should reevaluate what my research question in. Since I was limited in time for this college project, I couldn't do as much research as I wanted to. I guess what I'm saying is that I underestimated domain expertise/experience. If I understood more about how Census Block Groups and California regions are classified and separated, I could've asked better questions that would dictate the rest of my modeling/preprocessing.
+4. I think a better research questions was to focus on a particular county like Orange County so I don't have to sift through so much data. This would make finding "significant" results easier and allow for more experimentation.
 
 ### Example Picture
 <p align="center">
